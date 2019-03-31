@@ -3703,6 +3703,8 @@
 (^|\.)pinterest\.jp$
 (^|\.)pinterest\.nl$
 (^|\.)pinterest\.se$
+(^|\.)dribbble\.com$
+(^|\.)behance\.net$
 (^|\.)pioneer-worker\.forums-free\.com$
 (^|\.)pipii\.tv$
 (^|\.)piposay\.com$
