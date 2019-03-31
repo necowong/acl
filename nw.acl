@@ -3733,11 +3733,10 @@
 (^|\\.)pinterest\\.fr$\
 (^|\\.)pinterest\\.jp$\
 (^|\\.)pinterest\\.nl$\
-(^|\\.)pinterest\\.se$\
+(^|\\.)pinterest\\.se$\cf2 \outl0\strokewidth0 \
 \pard\pardeftab720\sl280\partightenfactor0
-\cf2 \outl0\strokewidth0 (^|\\.)instagram\\.com$\
-\pard\pardeftab720\sl280\partightenfactor0
-\cf2 (^|\\.)bechance.net\\.com$\cf2 \outl0\strokewidth0 \strokec2 \
+\cf2 (^|\\.)bechance.net\\.com$\
+(^|\\.)dribbble\\.com$\cf2 \outl0\strokewidth0 \strokec2 \
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 (^|\\.)pioneer-worker\\.forums-free\\.com$\
 (^|\\.)pipii\\.tv$\
